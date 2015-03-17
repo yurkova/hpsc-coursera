@@ -6,7 +6,7 @@
 #    $ bash test2h.sh > test2output.txt
 
 echo 
-echo Code run by  **insert your name here**
+echo Code run by  Viktoriia Yurkova
 echo Environment variable UWHPSC is $UWHPSC
 echo Environment variable MYHPSC is $MYHPSC
 

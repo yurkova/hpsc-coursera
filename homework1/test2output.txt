@@ -1,0 +1,24 @@
+
+Code run by Viktoriia Yurkova
+Environment variable UWHPSC is /home/uwhpsc/uwhpsc
+Environment variable MYHPSC is /home/uwhpsc/hpsc/hpsc-coursera
+
+which ipython returns...
+/usr/bin/ipython
+
+which gfortran returns...
+/usr/bin/gfortran
+
+gfortran --version returns...
+GNU Fortran (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+
+GNU Fortran comes with NO WARRANTY, to the extent permitted by law.
+You may redistribute copies of GNU Fortran
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING
+
+
+Compiling and running a Fortran code...
+ Code run by  Viktoriia Yurkova
+ Successfully ran Fortran 90 program
