@@ -1,0 +1,6 @@
+Code run by Viktoriia Yurkova
+Environment variable UWHPSC is /home/uwhpsc/uwhpsc
+Environment variable MYHPSC is /home/uwhpsc/hpsc/hpsc-coursera
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
